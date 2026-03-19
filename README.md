@@ -18,6 +18,10 @@ ClawChat is not a new agent runtime.
 
 - [MVP Plan](docs/clawchat-mvp.md)
 
+## License
+
+MIT
+
 ## Initial Scope
 
 - PWA first
